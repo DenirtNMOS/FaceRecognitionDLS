@@ -14,3 +14,8 @@ In `notebooks` dir you can find:
 - `img_dataframe.csv` - file with images data (attributes, bounding boxes, landmarks and indentities)
 - Notebooks `0.DataPreparation.ipynb` and `1.FaceAlignment.ipynb` related to first mandatory task (Face Alignment)
 - TBA
+
+## Model Weights
+
+- [Stacked Hourglass Network](https://drive.google.com/file/d/1zju64qUOSgvkCZlxyewD6HipYuCC7_r7/view?usp=sharing)
+- TBA
