@@ -20,3 +20,7 @@ In `notebooks` dir you can find:
 
 - [Stacked Hourglass Network](https://drive.google.com/file/d/1zju64qUOSgvkCZlxyewD6HipYuCC7_r7/view?usp=sharing)
 - WIP
+
+## Contacts
+
+Contact me in [Telegram](t.me/DenirtTheFox) if you have questions
