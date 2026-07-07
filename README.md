@@ -23,4 +23,4 @@ In `notebooks` dir you can find:
 
 ## Contacts
 
-Contact me in [Telegram](t.me/DenirtTheFox) if you have questions
+Contact me in Telegram (@DenirtTheFox) if you have questions
