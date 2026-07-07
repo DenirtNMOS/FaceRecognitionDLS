@@ -13,6 +13,7 @@ In `notebooks` dir you can find:
 - `chosen_imgs.csv` - file with chosen image file names from CelebA dataset
 - `img_dataframe.csv` - file with images data (attributes, bounding boxes, landmarks and indentities)
 - Notebooks `0.DataPreparation.ipynb` and `1.FaceAlignment.ipynb` related to first mandatory task (Face Alignment)
+- Notebook `2.ArcFace` related to second mandatory task (CELoss and ArcFace Сlassifiers)
 - TBA
 
 ## Model Weights
