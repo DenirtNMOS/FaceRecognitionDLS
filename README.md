@@ -14,12 +14,13 @@ In `notebooks` dir you can find:
 - `img_dataframe.csv` - file with images data (attributes, bounding boxes, landmarks and indentities)
 - Notebooks `0.DataPreparation.ipynb` and `1.FaceAlignment.ipynb` related to first mandatory task (Face Alignment)
 - Notebook `2.ArcFace.ipynb` related to second mandatory task (CELoss and ArcFace Сlassifiers)
-- WIP
+- Notebook `3.FaceRecognition.ipynb` related to third mandatory task (Assembling Pipeline)
 
 ## Model Weights
 
 - [Stacked Hourglass Network](https://drive.google.com/file/d/1zju64qUOSgvkCZlxyewD6HipYuCC7_r7/view?usp=sharing)
-- WIP
+- [CELoss-trained EfficientNet B0](https://drive.google.com/file/d/1EXMqvxAZjMNj42NdrSqrFR9Uam4l2MqF/view?usp=sharing)
+- [ArcFace-trained EfficientNet B0](https://drive.google.com/file/d/1XEdjgEYEVDxHZEVj8fXP2vX0SieUD_jL/view?usp=sharing)
 
 ## Contacts
 
