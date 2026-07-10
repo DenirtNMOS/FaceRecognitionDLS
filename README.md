@@ -6,7 +6,7 @@ This repository showcases a project completed within the DLS deep learning cours
 - A dataset built upon [CelebA](https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 - A links to model weigths
 
-## Overview
+## Files
 
 In `notebooks` dir you can find:
 
